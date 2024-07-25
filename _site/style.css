@@ -874,3 +874,8 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
+.give-butter-button {
+    display: flex;
+    justify-content: center;
+}
+
